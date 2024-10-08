@@ -10,7 +10,7 @@ My activities on GitHub include:
   - **Pytest**: Refactors in a few parts of the library like fixtures.
   
   And teeny-tiny touches on some other.
-- My personal and university projects .
+- Personal and university projects .
 
 <!--
 **sadra-barikbin/sadra-barikbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
