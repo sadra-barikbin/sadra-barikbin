@@ -2,6 +2,16 @@
 I'm **Sadra Barikbin**!
 
 [![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadra-barikbin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+My activities on GitHub include:
+
+- Some contributions to valuable open-source projects like
+  - **Pytorch-Ignite**: Implementing distributed-friendly metrics, refactors and housekeepings.
+  - **Pytest**: Refactors in a few parts of the library like fixtures.
+  
+  And teeny-tiny touches on some other.
+- My personal and university projects .
+
 <!--
 **sadra-barikbin/sadra-barikbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
