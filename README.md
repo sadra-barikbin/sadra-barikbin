@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm **Sadra Barikbin**!
 
+I love the open-source approach to software development & scientific research for the smooth collaboration that takes place therein and the common benefit that a whole community enjoys from.
+
 [![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadra-barikbin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 My activities on GitHub include:
